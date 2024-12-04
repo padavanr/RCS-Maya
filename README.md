@@ -1,5 +1,7 @@
 # RCS
 RCS Script
+![image](https://github.com/user-attachments/assets/f45cff77-da2f-47d6-964e-a4b0ec648535)
+
 Rykov's Control Shaker – Beginner's Guide
 
 Introduction
